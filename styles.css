@@ -1,0 +1,12 @@
+@font-face{
+    font-family: Inter Regular;
+    src: url(fonts/Inter-Regular.ttf);
+}
+
+body{
+    font-family: 'Inter Regular';
+}
+
+a {
+    text-decoration: none;
+}
